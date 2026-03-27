@@ -1,0 +1,5 @@
+# JWT PenTest Suite — Python dependencies
+# Standard library only for HMAC (HS256/384/512).
+# Install the below for full asymmetric algorithm support (RS/ES/PS 256/384/512):
+
+cryptography>=41.0.0
